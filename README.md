@@ -1,1 +1,1 @@
-# python
+# 2 EMAs strategy trading bot
